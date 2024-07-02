@@ -20,16 +20,16 @@ For Database: SQL
 Some screenshots of the pages.
 
 ### Signup Page 
-<img src="../master/images/main1.png"/>
+<img src="./images/main1.png"/>
 
 ### Take Appointment
-<img src="../master/images/appointment1.png"/> 
+<img src="./images/appointment1.png"/> 
 
 ### Current Appointments
-<img src="../master/images/current1.png"/> 
+<img src="./images/current1.png"/> 
 
 ### Search Staff
-<img src="../master/images/search.png"/> 
+<img src="./images/search.png"/> 
 
 
 
